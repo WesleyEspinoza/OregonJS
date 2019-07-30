@@ -1,0 +1,25 @@
+{
+  "name": "oregon-trail-starter",
+  "version": "1.0.0",
+  "description": "who knows",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyEspinoza/OregonJS.git"
+  },
+  "author": "Erick W Espinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyEspinoza/OregonJS/issues"
+  },
+  "homepage": "https://github.com/WesleyEspinoza/OregonJS#readme",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
